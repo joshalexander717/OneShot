@@ -837,3 +837,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.07-21.52.32:619][801]SourceControl:  create mode 100644 OneShotProject/Content/FirstPersonBP/FirstPersonOverview.uasset
 [2021.10.07-21.52.32:619][801]SourceControl:  create mode 100644 OneShotProject/OneShotProject.uproject
 [2021.10.07-21.52.32:635][801]SourceControl: Commited [main b92a147] Project files.
+[2021.10.07-21.53.41:129][884]LogSlate: Took 0.035000 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.10.07-21.53.55:209][719]LogSlate: Window 'Source Control Login' being destroyed
