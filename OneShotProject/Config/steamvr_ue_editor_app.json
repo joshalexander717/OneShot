@@ -2,7 +2,7 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.first-person-bp-game-template-15973114.ue4editor.exe",
+			"app_key": "application.generated.ue.first-person-bp-game-template-18319896.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
 			"action_manifest_path": "E:/Unreal/Projects/GitProjects/OneShot/OneShotProject/Config/SteamVRBindings/steamvr_manifest.json",
@@ -10,7 +10,7 @@
 			{
 				"en_us":
 				{
-					"name": "First Person BP Game Template-15973114 [UE Editor]"
+					"name": "First Person BP Game Template-18319896 [UE Editor]"
 				}
 			}
 		}
