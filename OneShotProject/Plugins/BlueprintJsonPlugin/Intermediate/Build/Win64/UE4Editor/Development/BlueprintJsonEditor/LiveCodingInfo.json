@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.BlueprintJsonEditor.cpp.obj": [
+			"BlueprintJsonEditor.cpp.obj",
+			"BlueprintJsonEditorNodes.cpp.obj"
+		],
+		"Module.BlueprintJsonEditor.gen.cpp.obj": [
+			"BlueprintJsonEditor.init.gen.cpp.obj",
+			"BlueprintJsonEditorNodes.gen.cpp.obj"
+		]
+	}
+}
