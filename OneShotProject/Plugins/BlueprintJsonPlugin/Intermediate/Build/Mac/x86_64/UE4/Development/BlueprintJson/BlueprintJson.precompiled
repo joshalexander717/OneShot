@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"Module.BlueprintJson.cpp.o",
+		"Module.BlueprintJson.gen.cpp.o"
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.BlueprintJson.cppa7.o",
+		"Module.BlueprintJson.cppa8.o",
+		"Module.BlueprintJson.gen.cppa7.o",
+		"Module.BlueprintJson.gen.cppa8.o"
+	]
+}
