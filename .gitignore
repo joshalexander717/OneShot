@@ -47,7 +47,6 @@ OneShotProject/SourceArt/**/*.tga
 
 # Binary Files
 OneShotProject/Binaries/*
-OneShotProject/Plugins/*/Binaries/*
 
 # Builds
 OneShotProject/Build/*
@@ -68,7 +67,6 @@ OneShotProject/Saved/*
 
 # Compiled source files for the engine to use
 OneShotProject/Intermediate/*
-OneShotProject/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 OneShotProject/DerivedDataCache/*
