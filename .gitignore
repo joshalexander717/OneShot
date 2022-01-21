@@ -51,6 +51,9 @@ OneShotProject/Binaries/*
 # Builds
 OneShotProject/Build/*
 
+# Whitelist Plugins
+!OneShotProject/Plugins/*
+
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !OneShotProject/Build/*/
 OneShotProject/Build/*/**
