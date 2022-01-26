@@ -1,0 +1,77 @@
+{
+	"LevelString": "asdfffffff",
+	"WorldObjects": [
+		{
+			"ObjectID": 0,
+			"LocationX": 0,
+			"LocationY": 0,
+			"LocationZ": 400,
+			"RotationX": 0,
+			"RotationY": 0,
+			"RotationZ": 0,
+			"ScaleX": 1,
+			"ScaleY": 1,
+			"ScaleZ": 1
+		},
+		{
+			"ObjectID": 3,
+			"LocationX": 0,
+			"LocationY": 0,
+			"LocationZ": 400,
+			"RotationX": 0,
+			"RotationY": 0,
+			"RotationZ": 0,
+			"ScaleX": 1,
+			"ScaleY": 1,
+			"ScaleZ": 1
+		},
+		{
+			"ObjectID": 2,
+			"LocationX": 0,
+			"LocationY": 0,
+			"LocationZ": 400,
+			"RotationX": 0,
+			"RotationY": 0,
+			"RotationZ": 0,
+			"ScaleX": 1,
+			"ScaleY": 1,
+			"ScaleZ": 1
+		},
+		{
+			"ObjectID": 4,
+			"LocationX": 0,
+			"LocationY": 0,
+			"LocationZ": 400,
+			"RotationX": 0,
+			"RotationY": 0,
+			"RotationZ": 0,
+			"ScaleX": 1,
+			"ScaleY": 1,
+			"ScaleZ": 1
+		},
+		{
+			"ObjectID": 1,
+			"LocationX": 0,
+			"LocationY": 0,
+			"LocationZ": 400,
+			"RotationX": 0,
+			"RotationY": 0,
+			"RotationZ": 0,
+			"ScaleX": 1,
+			"ScaleY": 1,
+			"ScaleZ": 1
+		},
+		{
+			"ObjectID": 23,
+			"LocationX": 0,
+			"LocationY": 0,
+			"LocationZ": 400,
+			"RotationX": 0,
+			"RotationY": 0,
+			"RotationZ": 0,
+			"ScaleX": 1,
+			"ScaleY": 1,
+			"ScaleZ": 1
+		}
+	]
+}

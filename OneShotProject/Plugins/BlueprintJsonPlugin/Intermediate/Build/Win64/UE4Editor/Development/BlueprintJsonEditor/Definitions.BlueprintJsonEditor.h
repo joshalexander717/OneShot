@@ -50,7 +50,7 @@
 #define UE_BUILD_DEVELOPMENT 1
 #define UE_IS_ENGINE_MODULE 0
 #define UE_PROJECT_NAME OneShotProject
-#define UE_TARGET_NAME UE4Editor
+#define UE_TARGET_NAME OneShotProjectEditor
 #define UE_MODULE_NAME "BlueprintJsonEditor"
 #define UE_PLUGIN_NAME "BlueprintJson"
 #define IMPLEMENT_ENCRYPTION_KEY_REGISTRATION() 
