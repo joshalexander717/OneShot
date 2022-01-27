@@ -6,8 +6,8 @@
 /NAME:"UE4Editor-BlueprintJsonEditor.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\josha\Documents\Projects\Unreal\GitHub\OneShot\OneShotProject\Intermediate\Build\Win64\OneShotProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
-"C:\Users\josha\Documents\Projects\Unreal\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Module.BlueprintJsonEditor.cpp.obj"
-"C:\Users\josha\Documents\Projects\Unreal\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Module.BlueprintJsonEditor.gen.cpp.obj"
-"C:\Users\josha\Documents\Projects\Unreal\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Default.rc2.res"
-/OUT:"C:\Users\josha\Documents\Projects\Unreal\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\UE4Editor-BlueprintJsonEditor.lib"
+"C:\Users\Ian Richens\Documents\GitHub\OneShot\OneShotProject\Intermediate\Build\Win64\OneShotProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\Ian Richens\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Module.BlueprintJsonEditor.cpp.obj"
+"C:\Users\Ian Richens\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Module.BlueprintJsonEditor.gen.cpp.obj"
+"C:\Users\Ian Richens\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Default.rc2.res"
+/OUT:"C:\Users\Ian Richens\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\UE4Editor-BlueprintJsonEditor.lib"
