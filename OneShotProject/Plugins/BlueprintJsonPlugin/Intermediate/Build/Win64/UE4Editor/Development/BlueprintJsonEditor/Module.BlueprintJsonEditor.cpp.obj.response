@@ -32,7 +32,11 @@
 /wd4244
 /wd4838
 /I .
+<<<<<<< Updated upstream
 /I C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJsonEditor\Private
+=======
+/I C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJsonEditor\Private
+>>>>>>> Stashed changes
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -232,11 +236,19 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
+<<<<<<< Updated upstream
 /I C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintJson
 /I C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source
 /I C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJson\Public
 /I C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintJsonEditor
 /I C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJsonEditor\Public
+=======
+/I C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintJson
+/I C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source
+/I C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJson\Public
+/I C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintJsonEditor
+/I C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJsonEditor\Public
+>>>>>>> Stashed changes
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -260,18 +272,31 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
+<<<<<<< Updated upstream
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\INCLUDE"
+=======
+/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE"
+>>>>>>> Stashed changes
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
+<<<<<<< Updated upstream
 /FI"C:\Users\jackc\repos\OneShot\OneShotProject\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
 /Yu"C:\Users\jackc\repos\OneShot\OneShotProject\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
 /Fp"C:\Users\jackc\repos\OneShot\OneShotProject\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
 "C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Module.BlueprintJsonEditor.cpp"
 /FI"C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Definitions.BlueprintJsonEditor.h"
 /Fo"C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Module.BlueprintJsonEditor.cpp.obj"
+=======
+/FI"C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Intermediate\Build\Win64\OneShotProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/Yu"C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Intermediate\Build\Win64\OneShotProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/Fp"C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Intermediate\Build\Win64\OneShotProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
+"C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Module.BlueprintJsonEditor.cpp"
+/FI"C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Definitions.BlueprintJsonEditor.h"
+/Fo"C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Module.BlueprintJsonEditor.cpp.obj"
+>>>>>>> Stashed changes
 /TP
 /GR-
 /W4
