@@ -6,8 +6,8 @@
 /NAME:"UE4Editor-BlueprintJson.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\jackc\repos\OneShot\OneShotProject\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJson\Module.BlueprintJson.cpp.obj"
-"C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJson\Module.BlueprintJson.gen.cpp.obj"
-"C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJson\Default.rc2.res"
-/OUT:"C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJson\UE4Editor-BlueprintJson.lib"
+"D:\Github\OneShot\OneShotProject\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Github\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJson\Module.BlueprintJson.cpp.obj"
+"D:\Github\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJson\Module.BlueprintJson.gen.cpp.obj"
+"D:\Github\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJson\Default.rc2.res"
+/OUT:"D:\Github\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJson\UE4Editor-BlueprintJson.lib"
