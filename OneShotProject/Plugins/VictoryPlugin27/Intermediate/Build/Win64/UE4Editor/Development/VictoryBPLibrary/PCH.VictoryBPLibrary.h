@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-// PCH for C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
-=======
-// PCH for C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
->>>>>>> Stashed changes
+// PCH for C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
 #define IS_PROGRAM 0
 #define UE_EDITOR 1
 #define ENABLE_PGO_PROFILE 0
@@ -49,7 +45,7 @@
 #define UE_BUILD_DEVELOPMENT 1
 #define UE_IS_ENGINE_MODULE 0
 #define UE_PROJECT_NAME OneShotProject
-#define UE_TARGET_NAME UE4Editor
+#define UE_TARGET_NAME OneShotProjectEditor
 #define UE_MODULE_NAME "VictoryBPLibrary"
 #define UE_PLUGIN_NAME "VictoryBPLibrary"
 #define IMPLEMENT_ENCRYPTION_KEY_REGISTRATION() 
@@ -303,8 +299,4 @@
 #define WITH_CUSTOM_SQ_STRUCTURE 0
 #define WITH_IMMEDIATE_PHYSX 0
 #define APEXDESTRUCTION_API DLLIMPORT
-<<<<<<< Updated upstream
-#include "C:/Users/jackc/repos/OneShot/OneShotProject/Plugins/VictoryPlugin27/Source/VictoryBPLibrary/Private/VictoryBPLibraryPrivatePCH.h"
-=======
-#include "C:/Users/Owner/Documents/Schoolwork/Fall2021/Capstone/OneShot/OneShotProject/Plugins/VictoryPlugin27/Source/VictoryBPLibrary/Private/VictoryBPLibraryPrivatePCH.h"
->>>>>>> Stashed changes
+#include "C:/Users/Cam/Desktop/SeniorCapstone/OneShot/OneShot/OneShotProject/Plugins/VictoryPlugin27/Source/VictoryBPLibrary/Private/VictoryBPLibraryPrivatePCH.h"

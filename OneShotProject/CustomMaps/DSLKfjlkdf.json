@@ -1,0 +1,81 @@
+{
+	"LevelString": "DSLKfjlkdf",
+	"LevelType": "DefeatAllEnemies",
+	"Star1": "DontReload",
+	"Star2": "DontReload",
+	"Star3": "DontMiss",
+	"WorldObjects": [
+		{
+			"ObjectID": 0,
+			"LocationX": -704.3306884765625,
+			"LocationY": -704.3306884765625,
+			"LocationZ": 0,
+			"RotationX": 0,
+			"RotationY": 0,
+			"RotationZ": 0,
+			"ScaleX": 1,
+			"ScaleY": 1,
+			"ScaleZ": 1
+		},
+		{
+			"ObjectID": 0,
+			"LocationX": -704.3306884765625,
+			"LocationY": 0,
+			"LocationZ": 0,
+			"RotationX": 0,
+			"RotationY": 0,
+			"RotationZ": 0,
+			"ScaleX": 1,
+			"ScaleY": 1,
+			"ScaleZ": 1
+		},
+		{
+			"ObjectID": 0,
+			"LocationX": -2112.9921875,
+			"LocationY": 0,
+			"LocationZ": 0,
+			"RotationX": 0,
+			"RotationY": 0,
+			"RotationZ": 0,
+			"ScaleX": 1,
+			"ScaleY": 1,
+			"ScaleZ": 1
+		},
+		{
+			"ObjectID": 0,
+			"LocationX": -1408.661376953125,
+			"LocationY": -704.3306884765625,
+			"LocationZ": 0,
+			"RotationX": 0,
+			"RotationY": 0,
+			"RotationZ": 0,
+			"ScaleX": 1,
+			"ScaleY": 1,
+			"ScaleZ": 1
+		},
+		{
+			"ObjectID": 0,
+			"LocationX": -704.3306884765625,
+			"LocationY": -1408.661376953125,
+			"LocationZ": 0,
+			"RotationX": 0,
+			"RotationY": 0,
+			"RotationZ": 0,
+			"ScaleX": 1,
+			"ScaleY": 1,
+			"ScaleZ": 1
+		},
+		{
+			"ObjectID": 23,
+			"LocationX": 0,
+			"LocationY": -800,
+			"LocationZ": 0,
+			"RotationX": 0,
+			"RotationY": 0,
+			"RotationZ": 0,
+			"ScaleX": 1,
+			"ScaleY": 1,
+			"ScaleZ": 1
+		}
+	]
+}

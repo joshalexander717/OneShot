@@ -1,5 +1,5 @@
 /MANIFEST:EMBED
-/MANIFESTINPUT:"C:\Program Files\Epic Games\UE_4.27\Engine\Build\Windows\Resources\Default-Win64.manifest"
+/MANIFESTINPUT:R:\UE_4.27\UE_4.27\Engine\Build\Windows\Resources\Default-Win64.manifest
 /NOLOGO
 /DEBUG
 /errorReport:prompt
@@ -18,7 +18,7 @@
 /ignore:4099
 /DELAYLOAD:"d3d12.dll"
 /DELAYLOAD:"DBGHELP.DLL"
-/LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\lib\x64"
+/LIBPATH:"R:\VS 2019\VC\Tools\MSVC\14.29.30133\lib\x64"
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x64"
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\ucrt\x64"
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64"
@@ -33,18 +33,18 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
-"C:\Users\jackc\repos\OneShot\OneShotProject\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
-"C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Module.BlueprintJsonEditor.cpp.obj"
-"C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Module.BlueprintJsonEditor.gen.cpp.obj"
-"C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Default.rc2.res"
-"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
-"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
-"C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJson\UE4Editor-BlueprintJson.lib"
-"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Json\UE4Editor-Json.lib"
-"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\BlueprintGraph\UE4Editor-BlueprintGraph.lib"
-"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\UE4Editor-UnrealEd.lib"
-"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\KismetCompiler\UE4Editor-KismetCompiler.lib"
-"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"R:\CAPSTONE\OneShot\OneShotProject\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"R:\CAPSTONE\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Module.BlueprintJsonEditor.cpp.obj"
+"R:\CAPSTONE\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Module.BlueprintJsonEditor.gen.cpp.obj"
+"R:\CAPSTONE\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Default.rc2.res"
+"R:\UE_4.27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
+"R:\UE_4.27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
+"R:\CAPSTONE\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJson\UE4Editor-BlueprintJson.lib"
+"R:\UE_4.27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Json\UE4Editor-Json.lib"
+"R:\UE_4.27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\BlueprintGraph\UE4Editor-BlueprintGraph.lib"
+"R:\UE_4.27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\UE4Editor-UnrealEd.lib"
+"R:\UE_4.27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\KismetCompiler\UE4Editor-KismetCompiler.lib"
+"R:\UE_4.27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"
@@ -69,7 +69,7 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Binaries\Win64\UE4Editor-BlueprintJsonEditor.dll"
-/IMPLIB:"C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\UE4Editor-BlueprintJsonEditor.suppressed.lib"
-/PDB:"C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Binaries\Win64\UE4Editor-BlueprintJsonEditor.pdb"
+/OUT:"R:\CAPSTONE\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Binaries\Win64\UE4Editor-BlueprintJsonEditor.dll"
+/IMPLIB:"R:\CAPSTONE\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\UE4Editor-BlueprintJsonEditor.suppressed.lib"
+/PDB:"R:\CAPSTONE\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Binaries\Win64\UE4Editor-BlueprintJsonEditor.pdb"
 /ignore:4078

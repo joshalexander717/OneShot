@@ -18,14 +18,10 @@
 /ignore:4099
 /DELAYLOAD:"d3d12.dll"
 /DELAYLOAD:"DBGHELP.DLL"
-<<<<<<< Updated upstream
-/LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\lib\x64"
-=======
 /LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x64"
->>>>>>> Stashed changes
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x64"
-/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\ucrt\x64"
-/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64"
 /NODEFAULTLIB:"LIBCMT"
 /NODEFAULTLIB:"LIBCPMT"
 /NODEFAULTLIB:"LIBCMTD"
@@ -37,23 +33,13 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
-<<<<<<< Updated upstream
-"C:\Users\jackc\repos\OneShot\OneShotProject\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
-"C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Module.BlueprintJsonEditor.cpp.obj"
-"C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Module.BlueprintJsonEditor.gen.cpp.obj"
-"C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Default.rc2.res"
+"C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Intermediate\Build\Win64\OneShotProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Module.BlueprintJsonEditor.cpp.obj"
+"C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Module.BlueprintJsonEditor.gen.cpp.obj"
+"C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Default.rc2.res"
 "C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
 "C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
-"C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJson\UE4Editor-BlueprintJson.lib"
-=======
-"C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Intermediate\Build\Win64\OneShotProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
-"C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Module.BlueprintJsonEditor.cpp.obj"
-"C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Module.BlueprintJsonEditor.gen.cpp.obj"
-"C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Default.rc2.res"
-"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
-"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
-"C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJson\UE4Editor-BlueprintJson.lib"
->>>>>>> Stashed changes
+"C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJson\UE4Editor-BlueprintJson.lib"
 "C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Json\UE4Editor-Json.lib"
 "C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\BlueprintGraph\UE4Editor-BlueprintGraph.lib"
 "C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\UE4Editor-UnrealEd.lib"
@@ -83,13 +69,7 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
-<<<<<<< Updated upstream
-/OUT:"C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Binaries\Win64\UE4Editor-BlueprintJsonEditor.dll"
-/IMPLIB:"C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\UE4Editor-BlueprintJsonEditor.suppressed.lib"
-/PDB:"C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Binaries\Win64\UE4Editor-BlueprintJsonEditor.pdb"
-=======
-/OUT:"C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Binaries\Win64\UE4Editor-BlueprintJsonEditor.dll"
-/IMPLIB:"C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\UE4Editor-BlueprintJsonEditor.suppressed.lib"
-/PDB:"C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Binaries\Win64\UE4Editor-BlueprintJsonEditor.pdb"
->>>>>>> Stashed changes
+/OUT:"C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Binaries\Win64\UE4Editor-BlueprintJsonEditor.dll"
+/IMPLIB:"C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\UE4Editor-BlueprintJsonEditor.suppressed.lib"
+/PDB:"C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Binaries\Win64\UE4Editor-BlueprintJsonEditor.pdb"
 /ignore:4078

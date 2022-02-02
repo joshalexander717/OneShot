@@ -1,12 +1,6 @@
-<<<<<<< Updated upstream
-C:/Users/jackc/repos/OneShot/OneShotProject/Plugins/VictoryPlugin27/Source/VictoryBPLibrary/Private/TKMathFunctionLibrary.cpp
-C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
-C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Public\TKMathFunctionLibrary.h
-=======
-C:/Users/Owner/Documents/Schoolwork/Fall2021/Capstone/OneShot/OneShotProject/Plugins/VictoryPlugin27/Source/VictoryBPLibrary/Private/TKMathFunctionLibrary.cpp
-C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
-C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Public\TKMathFunctionLibrary.h
->>>>>>> Stashed changes
+C:/Users/Cam/Desktop/SeniorCapstone/OneShot/OneShot/OneShotProject/Plugins/VictoryPlugin27/Source/VictoryBPLibrary/Private/TKMathFunctionLibrary.cpp
+C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
+C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Public\TKMathFunctionLibrary.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/UMG/Public/UMG.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Core.h
@@ -87,13 +81,8 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serializat
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\String/BytesToHex.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\String/HexToBytes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/RefCounting.h
-<<<<<<< Updated upstream
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\INCLUDE\typeinfo
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\INCLUDE\vcruntime_typeinfo.h
-=======
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE\typeinfo
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE\vcruntime_typeinfo.h
->>>>>>> Stashed changes
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/ThreadingBase.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/TextLocalizationManagerGlobals.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/Culture.h
@@ -338,18 +327,13 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RHI\Public\RHIUtilitie
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RHI\Public\RHICommandList.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfiler.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfilerTrace.h
-<<<<<<< Updated upstream
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\INCLUDE\atomic
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\INCLUDE\xatomic.h
-=======
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE\atomic
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE\xatomic.h
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE\intrin0.h
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE\xthreads.h
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE\xtimec.h
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE\ctime
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\time.h
->>>>>>> Stashed changes
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\time.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RHI\Public\RHICommandList.inl
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\RenderCore.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\VertexFactory.h
@@ -1682,18 +1666,11 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/I
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/BasicMathExpressionEvaluator.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/FastDecimalFormat.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SSpinBox.h
-<<<<<<< Updated upstream
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\INCLUDE\limits
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\INCLUDE\cfloat
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\INCLUDE\cwchar
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\INCLUDE\cstdio
-=======
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE\limits
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE\cfloat
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE\cwchar
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE\cstdio
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE\isa_availability.h
->>>>>>> Stashed changes
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SSlider.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Docking/LayoutService.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/Anchors.h
@@ -2029,21 +2006,12 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Movi
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceTickManager.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\UMGSequenceTickManager.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\UMGSequencePlayer.generated.h
-<<<<<<< Updated upstream
-C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\TKMathFunctionLibrary.generated.h
-C:/Users/jackc/repos/OneShot/OneShotProject/Plugins/VictoryPlugin27/Source/VictoryBPLibrary/Private/VictoryBPFunctionLibrary.cpp
-C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
-C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Public\VictoryBPFunctionLibrary.h
-C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Public\VictoryISM.h
-C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryISM.generated.h
-=======
-C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\TKMathFunctionLibrary.generated.h
-C:/Users/Owner/Documents/Schoolwork/Fall2021/Capstone/OneShot/OneShotProject/Plugins/VictoryPlugin27/Source/VictoryBPLibrary/Private/VictoryBPFunctionLibrary.cpp
-C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
-C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Public\VictoryBPFunctionLibrary.h
-C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Public\VictoryISM.h
-C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryISM.generated.h
->>>>>>> Stashed changes
+C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\TKMathFunctionLibrary.generated.h
+C:/Users/Cam/Desktop/SeniorCapstone/OneShot/OneShot/OneShotProject/Plugins/VictoryPlugin27/Source/VictoryBPLibrary/Private/VictoryBPFunctionLibrary.cpp
+C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
+C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Public\VictoryBPFunctionLibrary.h
+C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Public\VictoryISM.h
+C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryISM.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/UMG/Public/UMGStyle.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\AIController.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\NavigationSystem\Public\NavFilters/NavigationQueryFilter.h
@@ -2108,11 +2076,7 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SignalProcessing\Publi
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer/TargetPlatform/Public/Interfaces/IAudioFormat.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\VorbisAudioInfo.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\DDSLoader.h
-<<<<<<< Updated upstream
-C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryBPFunctionLibrary.generated.h
-=======
-C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryBPFunctionLibrary.generated.h
->>>>>>> Stashed changes
+C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryBPFunctionLibrary.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/ApplicationCore/Public/HAL/PlatformApplicationMisc.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\ApplicationCore\Public\Windows/WindowsPlatformApplicationMisc.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericPlatformApplicationMisc.h
@@ -2137,13 +2101,8 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\Phy
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation\Px.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxSimpleTypes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxPreprocessor.h
-<<<<<<< Updated upstream
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\INCLUDE\ciso646
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\INCLUDE\iso646.h
-=======
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE\ciso646
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE\iso646.h
->>>>>>> Stashed changes
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxPhysicsAPI.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxAllocatorCallback.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxAssert.h
@@ -2153,10 +2112,10 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\inc
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxQuat.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxVec3.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxMath.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxIntrinsics.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/windows/PxWindowsIntrinsics.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxPlane.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxMat33.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxErrorCallback.h
@@ -2424,25 +2383,6 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRInput.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\XRGestureConfig.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\XRGestureConfig.generated.h
-<<<<<<< Updated upstream
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\INCLUDE\chrono
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\INCLUDE\ratio
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\time.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\INCLUDE\xtimec.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\INCLUDE\random
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\INCLUDE\algorithm
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\INCLUDE\xmemory
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\INCLUDE\cstdint
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\INCLUDE\cmath
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\INCLUDE\xtgmath.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\INCLUDE\iosfwd
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\INCLUDE\vector
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\INCLUDE\xstring
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\INCLUDE\string
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\INCLUDE\cctype
-C:/Users/jackc/repos/OneShot/OneShotProject/Plugins/VictoryPlugin27/Source/VictoryBPLibrary/Private/VictoryBPFunctionLibrary_WinOS.cpp
-C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
-=======
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE\chrono
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE\ratio
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE\random
@@ -2455,140 +2395,121 @@ C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.3070
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE\xstring
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE\string
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE\cctype
-C:/Users/Owner/Documents/Schoolwork/Fall2021/Capstone/OneShot/OneShotProject/Plugins/VictoryPlugin27/Source/VictoryBPLibrary/Private/VictoryBPFunctionLibrary_WinOS.cpp
-C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
->>>>>>> Stashed changes
+C:/Users/Cam/Desktop/SeniorCapstone/OneShot/OneShot/OneShotProject/Plugins/VictoryPlugin27/Source/VictoryBPLibrary/Private/VictoryBPFunctionLibrary_WinOS.cpp
+C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/Core/Public/Windows/AllowWindowsPlatformTypes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\Windows.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
-<<<<<<< Updated upstream
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\INCLUDE\excpt.h
-=======
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\sdkddkver.h
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE\excpt.h
->>>>>>> Stashed changes
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\windef.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\kernelspecs.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\basetsd.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apiset.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\ktmtypes.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winbase.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apisetcconv.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\minwinbase.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\apiquery2.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processenv.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapifromapp.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\debugapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\utilapiset.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\handleapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\errhandlingapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fibersapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namedpipeapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\profileapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\heapapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ioapiset.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\synchapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\interlockedapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processthreadsapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\sysinfoapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\memoryapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\enclaveapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoollegacyapiset.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoolapiset.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi2.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wow64apiset.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\libloaderapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securitybaseapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namespaceapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\systemtopologyapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processtopologyapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securityappcontainer.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\realtimeapiset.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\winerror.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\timezoneapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wingdi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winuser.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\tvout.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\datetimeapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\stringapiset.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincon.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincontypes.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi2.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi3.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winver.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\verrsrc.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winreg.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\reason.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnetwk.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\imm.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ime_cmodes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/Core/Public/Windows/HideWindowsPlatformTypes.h
-<<<<<<< Updated upstream
-C:/Users/jackc/repos/OneShot/OneShotProject/Plugins/VictoryPlugin27/Source/VictoryBPLibrary/Private/VictoryBPHTML.cpp
-C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
-C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Public\VictoryBPHTML.h
-C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryBPHTML.generated.h
-C:/Users/jackc/repos/OneShot/OneShotProject/Plugins/VictoryPlugin27/Source/VictoryBPLibrary/Private/VictoryBPLibrary.cpp
-C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
-C:/Users/jackc/repos/OneShot/OneShotProject/Plugins/VictoryPlugin27/Source/VictoryBPLibrary/Public/VictoryISM.cpp
-C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
-C:/Users/jackc/repos/OneShot/OneShotProject/Plugins/VictoryPlugin27/Source/VictoryBPLibrary/Public/VictoryPC.cpp
-C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
-C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Public\VictoryPC.h
-=======
-C:/Users/Owner/Documents/Schoolwork/Fall2021/Capstone/OneShot/OneShotProject/Plugins/VictoryPlugin27/Source/VictoryBPLibrary/Private/VictoryBPHTML.cpp
-C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
-C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Public\VictoryBPHTML.h
-C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryBPHTML.generated.h
-C:/Users/Owner/Documents/Schoolwork/Fall2021/Capstone/OneShot/OneShotProject/Plugins/VictoryPlugin27/Source/VictoryBPLibrary/Private/VictoryBPLibrary.cpp
-C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
-C:/Users/Owner/Documents/Schoolwork/Fall2021/Capstone/OneShot/OneShotProject/Plugins/VictoryPlugin27/Source/VictoryBPLibrary/Public/VictoryISM.cpp
-C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
-C:/Users/Owner/Documents/Schoolwork/Fall2021/Capstone/OneShot/OneShotProject/Plugins/VictoryPlugin27/Source/VictoryBPLibrary/Public/VictoryPC.cpp
-C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
-C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Public\VictoryPC.h
->>>>>>> Stashed changes
+C:/Users/Cam/Desktop/SeniorCapstone/OneShot/OneShot/OneShotProject/Plugins/VictoryPlugin27/Source/VictoryBPLibrary/Private/VictoryBPHTML.cpp
+C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
+C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Public\VictoryBPHTML.h
+C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryBPHTML.generated.h
+C:/Users/Cam/Desktop/SeniorCapstone/OneShot/OneShot/OneShotProject/Plugins/VictoryPlugin27/Source/VictoryBPLibrary/Private/VictoryBPLibrary.cpp
+C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
+C:/Users/Cam/Desktop/SeniorCapstone/OneShot/OneShot/OneShotProject/Plugins/VictoryPlugin27/Source/VictoryBPLibrary/Public/VictoryISM.cpp
+C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
+C:/Users/Cam/Desktop/SeniorCapstone/OneShot/OneShot/OneShotProject/Plugins/VictoryPlugin27/Source/VictoryBPLibrary/Public/VictoryPC.cpp
+C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
+C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Public\VictoryPC.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Online\HTTP\Public\Http.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Online\HTTP\Public\HttpModule.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Online\HTTP\Public\Interfaces/IHttpRequest.h
@@ -2597,16 +2518,8 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Online\HTTP\Public\Int
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Online\HTTP\Public\PlatformHttp.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Online\HTTP\Public\Windows/WindowsPlatformHttp.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Online\HTTP\Public\GenericPlatform/GenericPlatformHttp.h
-<<<<<<< Updated upstream
-C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryPC.generated.h
-C:/Users/jackc/repos/OneShot/OneShotProject/Plugins/VictoryPlugin27/Source/VictoryBPLibrary/Public/VictoryTMapComp.cpp
-C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
-C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Public\VictoryTMapComp.h
-C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryTMapComp.generated.h
-=======
-C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryPC.generated.h
-C:/Users/Owner/Documents/Schoolwork/Fall2021/Capstone/OneShot/OneShotProject/Plugins/VictoryPlugin27/Source/VictoryBPLibrary/Public/VictoryTMapComp.cpp
-C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
-C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Public\VictoryTMapComp.h
-C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryTMapComp.generated.h
->>>>>>> Stashed changes
+C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryPC.generated.h
+C:/Users/Cam/Desktop/SeniorCapstone/OneShot/OneShot/OneShotProject/Plugins/VictoryPlugin27/Source/VictoryBPLibrary/Public/VictoryTMapComp.cpp
+C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
+C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Public\VictoryTMapComp.h
+C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryTMapComp.generated.h

@@ -32,11 +32,7 @@
 /wd4244
 /wd4838
 /I .
-<<<<<<< Updated upstream
-/I C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private
-=======
-/I C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private
->>>>>>> Stashed changes
+/I C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -241,15 +237,9 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\MRMesh
 /I Runtime\MRMesh\Public
 /I ThirdParty\Vorbis\libvorbis-1.3.2\include
-<<<<<<< Updated upstream
-/I C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary
-/I C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source
-/I C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Public
-=======
-/I C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary
-/I C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source
-/I C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Public
->>>>>>> Stashed changes
+/I C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary
+/I C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source
+/I C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Public
 /I ..\Plugins\Runtime\ApexDestruction\Intermediate\Build\Win64\UE4Editor\Inc\ApexDestruction
 /I ..\Plugins\Runtime\ApexDestruction\Source
 /I ..\Plugins\Runtime\ApexDestruction\Source\ApexDestruction\Public
@@ -276,29 +266,17 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-<<<<<<< Updated upstream
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\INCLUDE"
-=======
 /I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE"
->>>>>>> Stashed changes
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-<<<<<<< Updated upstream
-/FI"C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Development\VictoryBPLibrary\PCH.VictoryBPLibrary.h"
-/Yu"C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Development\VictoryBPLibrary\PCH.VictoryBPLibrary.h"
-/Fp"C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Development\VictoryBPLibrary\PCH.VictoryBPLibrary.h.pch"
-"C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Development\VictoryBPLibrary\Module.VictoryBPLibrary.cpp"
-/Fo"C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Development\VictoryBPLibrary\Module.VictoryBPLibrary.cpp.obj"
-=======
-/FI"C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Development\VictoryBPLibrary\PCH.VictoryBPLibrary.h"
-/Yu"C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Development\VictoryBPLibrary\PCH.VictoryBPLibrary.h"
-/Fp"C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Development\VictoryBPLibrary\PCH.VictoryBPLibrary.h.pch"
-"C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Development\VictoryBPLibrary\Module.VictoryBPLibrary.cpp"
-/Fo"C:\Users\Owner\Documents\Schoolwork\Fall2021\Capstone\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Development\VictoryBPLibrary\Module.VictoryBPLibrary.cpp.obj"
->>>>>>> Stashed changes
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
+/FI"C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Development\VictoryBPLibrary\PCH.VictoryBPLibrary.h"
+/Yu"C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Development\VictoryBPLibrary\PCH.VictoryBPLibrary.h"
+/Fp"C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Development\VictoryBPLibrary\PCH.VictoryBPLibrary.h.pch"
+"C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Development\VictoryBPLibrary\Module.VictoryBPLibrary.cpp"
+/Fo"C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Development\VictoryBPLibrary\Module.VictoryBPLibrary.cpp.obj"
 /TP
 /GR-
 /W4
