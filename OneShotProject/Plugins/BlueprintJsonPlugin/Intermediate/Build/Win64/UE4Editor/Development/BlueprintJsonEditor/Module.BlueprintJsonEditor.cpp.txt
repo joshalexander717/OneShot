@@ -1,9 +1,9 @@
-C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Definitions.BlueprintJsonEditor.h
-C:/Users/Cam/Desktop/SeniorCapstone/OneShot/OneShot/OneShotProject/Plugins/BlueprintJsonPlugin/Source/BlueprintJsonEditor/Private/BlueprintJsonEditor.cpp
-C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJsonEditor\Public\BlueprintJsonEditor.h
-C:/Users/Cam/Desktop/SeniorCapstone/OneShot/OneShot/OneShotProject/Plugins/BlueprintJsonPlugin/Source/BlueprintJsonEditor/Private/BlueprintJsonEditorNodes.cpp
-C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJsonEditor\Public\BlueprintJsonEditorNodes.h
-C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintJsonEditor\BlueprintJsonEditorNodes.generated.h
+C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Definitions.BlueprintJsonEditor.h
+C:/Users/jackc/repos/OneShot/OneShotProject/Plugins/BlueprintJsonPlugin/Source/BlueprintJsonEditor/Private/BlueprintJsonEditor.cpp
+C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJsonEditor\Public\BlueprintJsonEditor.h
+C:/Users/jackc/repos/OneShot/OneShotProject/Plugins/BlueprintJsonPlugin/Source/BlueprintJsonEditor/Private/BlueprintJsonEditorNodes.cpp
+C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJsonEditor\Public\BlueprintJsonEditorNodes.h
+C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintJsonEditor\BlueprintJsonEditorNodes.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\KismetCompiler\Public\KismetCompiler.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_Event.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/MemberReference.h
@@ -29,12 +29,12 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Public\B
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\BlueprintNodeSpawner.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_CallFunction.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_CallFunction.generated.h
-C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJson\Public\BlueprintJsonWrapper.h
+C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJson\Public\BlueprintJsonWrapper.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
-C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintJson\BlueprintJsonWrapper.generated.h
-C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJson\Public\BlueprintJsonLibrary.h
-C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJson\Public\BlueprintJson.h
+C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintJson\BlueprintJsonWrapper.generated.h
+C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJson\Public\BlueprintJsonLibrary.h
+C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJson\Public\BlueprintJson.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Dom/JsonObject.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\JsonGlobals.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Dom/JsonValue.h
-C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintJson\BlueprintJsonLibrary.generated.h
+C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintJson\BlueprintJsonLibrary.generated.h

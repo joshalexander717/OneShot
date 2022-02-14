@@ -1,4 +1,4 @@
-C:/Users/Cam/Desktop/SeniorCapstone/OneShot/OneShot/OneShotProject/Plugins/VictoryPlugin27/Intermediate/Build/Win64/UE4Editor/Inc/VictoryBPLibrary/VictoryBPHTML.gen.cpp
+C:/Users/jackc/repos/OneShot/OneShotProject/Plugins/VictoryPlugin27/Intermediate/Build/Win64/UE4Editor/Inc/VictoryBPLibrary/VictoryBPHTML.gen.cpp
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/Object.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/Script.h
@@ -77,8 +77,8 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UOb
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/List.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/SerializedPropertyScope.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/MemoryImage.h
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE\typeinfo
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE\vcruntime_typeinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\typeinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_typeinfo.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/Greater.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNetTypes.h
@@ -95,15 +95,15 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UOb
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/EnumProperty.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/TextProperty.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/FieldPathProperty.h
-C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary/Public/VictoryBPHTML.h
+C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary/Public/VictoryBPHTML.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/Engine/Classes/Kismet/BlueprintFunctionLibrary.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptMacros.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/Stack.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlueprintFunctionLibrary.generated.h
-C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryBPHTML.generated.h
-C:/Users/Cam/Desktop/SeniorCapstone/OneShot/OneShot/OneShotProject/Plugins/VictoryPlugin27/Intermediate/Build/Win64/UE4Editor/Inc/VictoryBPLibrary/VictoryBPLibrary.init.gen.cpp
-C:/Users/Cam/Desktop/SeniorCapstone/OneShot/OneShot/OneShotProject/Plugins/VictoryPlugin27/Intermediate/Build/Win64/UE4Editor/Inc/VictoryBPLibrary/VictoryISM.gen.cpp
-C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary/Public/VictoryISM.h
+C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryBPHTML.generated.h
+C:/Users/jackc/repos/OneShot/OneShotProject/Plugins/VictoryPlugin27/Intermediate/Build/Win64/UE4Editor/Inc/VictoryBPLibrary/VictoryBPLibrary.init.gen.cpp
+C:/Users/jackc/repos/OneShot/OneShotProject/Plugins/VictoryPlugin27/Intermediate/Build/Win64/UE4Editor/Inc/VictoryBPLibrary/VictoryISM.gen.cpp
+C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary/Public/VictoryISM.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/Engine/Classes/Components/InstancedStaticMeshComponent.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\EngineDefines.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\HitProxies.h
@@ -223,13 +223,13 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Timec
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfiler.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/Queue.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfilerTrace.h
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE\atomic
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE\xatomic.h
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE\intrin0.h
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE\xthreads.h
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE\xtimec.h
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE\ctime
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\time.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\atomic
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xatomic.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\intrin0.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xthreads.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xtimec.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ctime
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\time.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RHI\Public\RHICommandList.inl
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\RenderCore.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/DynamicRHIResourceArray.h
@@ -603,9 +603,9 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\RawIndex
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/Launch/Resources/Version.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StaticMeshComponent.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InstancedStaticMeshComponent.generated.h
-C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryISM.generated.h
-C:/Users/Cam/Desktop/SeniorCapstone/OneShot/OneShot/OneShotProject/Plugins/VictoryPlugin27/Intermediate/Build/Win64/UE4Editor/Inc/VictoryBPLibrary/VictoryPC.gen.cpp
-C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary/Public/VictoryPC.h
+C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryISM.generated.h
+C:/Users/jackc/repos/OneShot/OneShotProject/Plugins/VictoryPlugin27/Intermediate/Build/Win64/UE4Editor/Inc/VictoryBPLibrary/VictoryPC.gen.cpp
+C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary/Public/VictoryPC.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Online\HTTP\Public\Http.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Online\HTTP\Public\HttpModule.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Online\HTTP\Public\Interfaces/IHttpRequest.h
@@ -648,7 +648,7 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFra
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\UpdateLevelVisibilityLevelInfo.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/IInputInterface.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerController.generated.h
-C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryPC.generated.h
-C:/Users/Cam/Desktop/SeniorCapstone/OneShot/OneShot/OneShotProject/Plugins/VictoryPlugin27/Intermediate/Build/Win64/UE4Editor/Inc/VictoryBPLibrary/VictoryTMapComp.gen.cpp
-C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary/Public/VictoryTMapComp.h
-C:\Users\Cam\Desktop\SeniorCapstone\OneShot\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryTMapComp.generated.h
+C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryPC.generated.h
+C:/Users/jackc/repos/OneShot/OneShotProject/Plugins/VictoryPlugin27/Intermediate/Build/Win64/UE4Editor/Inc/VictoryBPLibrary/VictoryTMapComp.gen.cpp
+C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary/Public/VictoryTMapComp.h
+C:\Users\jackc\repos\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryTMapComp.generated.h
