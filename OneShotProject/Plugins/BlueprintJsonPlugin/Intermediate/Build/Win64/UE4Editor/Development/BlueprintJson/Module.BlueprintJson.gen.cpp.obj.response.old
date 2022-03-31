@@ -32,7 +32,7 @@
 /wd4244
 /wd4838
 /I .
-/I C:\Users\khorc\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJson\Private
+/I C:\Users\u1196236\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJson\Private
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -234,9 +234,9 @@
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\JsonUtilities
 /I Runtime\JsonUtilities\Public
-/I C:\Users\khorc\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintJson
-/I C:\Users\khorc\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source
-/I C:\Users\khorc\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJson\Public
+/I C:\Users\u1196236\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintJson
+/I C:\Users\u1196236\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source
+/I C:\Users\u1196236\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJson\Public
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -260,18 +260,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/FI"C:\Users\khorc\Documents\GitHub\OneShot\OneShotProject\Intermediate\Build\Win64\OneShotProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\khorc\Documents\GitHub\OneShot\OneShotProject\Intermediate\Build\Win64\OneShotProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\khorc\Documents\GitHub\OneShot\OneShotProject\Intermediate\Build\Win64\OneShotProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\khorc\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJson\Module.BlueprintJson.gen.cpp"
-/FI"C:\Users\khorc\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJson\Definitions.BlueprintJson.h"
-/Fo"C:\Users\khorc\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJson\Module.BlueprintJson.gen.cpp.obj"
+/FI"C:\Users\u1196236\Documents\GitHub\OneShot\OneShotProject\Intermediate\Build\Win64\OneShotProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\u1196236\Documents\GitHub\OneShot\OneShotProject\Intermediate\Build\Win64\OneShotProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\u1196236\Documents\GitHub\OneShot\OneShotProject\Intermediate\Build\Win64\OneShotProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\u1196236\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJson\Module.BlueprintJson.gen.cpp"
+/FI"C:\Users\u1196236\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJson\Definitions.BlueprintJson.h"
+/Fo"C:\Users\u1196236\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJson\Module.BlueprintJson.gen.cpp.obj"
 /TP
 /GR-
 /W4
