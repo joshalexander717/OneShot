@@ -1,40 +1,40 @@
-C:\Users\Ian Richens\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Definitions.BlueprintJsonEditor.h
-C:/Users/Ian Richens/Documents/GitHub/OneShot/OneShotProject/Plugins/BlueprintJsonPlugin/Source/BlueprintJsonEditor/Private/BlueprintJsonEditor.cpp
-C:\Users\Ian Richens\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJsonEditor\Public\BlueprintJsonEditor.h
-C:/Users/Ian Richens/Documents/GitHub/OneShot/OneShotProject/Plugins/BlueprintJsonPlugin/Source/BlueprintJsonEditor/Private/BlueprintJsonEditorNodes.cpp
-C:\Users\Ian Richens\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJsonEditor\Public\BlueprintJsonEditorNodes.h
-C:\Users\Ian Richens\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintJsonEditor\BlueprintJsonEditorNodes.generated.h
-E:\UE_4.27\Engine\Source\Editor\KismetCompiler\Public\KismetCompiler.h
-E:\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_Event.h
-E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/MemberReference.h
-E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MemberReference.generated.h
-E:\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_EventNodeInterface.h
-E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_EventNodeInterface.generated.h
-E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_Event.generated.h
-E:\UE_4.27\Engine\Source\Editor\KismetCompiler\Public\BPTerminal.h
-E:\UE_4.27\Engine\Source\Editor\KismetCompiler\Public\KismetCompilerMisc.h
-E:\UE_4.27\Engine\Source\Editor\KismetCompiler\Public\BlueprintCompiledStatement.h
-E:\UE_4.27\Engine\Source\Editor\KismetCompiler\Public\EdGraphCompilerUtilities.h
-E:\UE_4.27\Engine\Source\Editor\KismetCompiler\Public\KismetCompiledFunctionContext.h
-E:\UE_4.27\Engine\Source\Editor\UnrealEd\Public\Kismet2/CompilerResultsLog.h
-E:\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/TokenizedMessage.h
-E:\UE_4.27\Engine\Source\Editor\UnrealEd\Public\EdGraphToken.h
-E:\UE_4.27\Engine\Source\Editor\BlueprintGraph\Public\BlueprintActionDatabaseRegistrar.h
-E:\UE_4.27\Engine\Source\Editor\BlueprintGraph\Public\BlueprintActionDatabase.h
-E:\UE_4.27\Engine\Source\Editor\BlueprintGraph\Public\BlueprintNodeSpawner.h
-E:\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\BlueprintNodeBinder.h
-E:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/WeakFieldPtr.h
-E:\UE_4.27\Engine\Source\Editor\BlueprintGraph\Public\BlueprintActionFilter.h
-E:\UE_4.27\Engine\Source\Editor\BlueprintGraph\Public\BlueprintGraphModule.h
-E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\BlueprintNodeSpawner.generated.h
-E:\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_CallFunction.h
-E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_CallFunction.generated.h
-C:\Users\Ian Richens\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJson\Public\BlueprintJsonWrapper.h
-E:\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
-C:\Users\Ian Richens\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintJson\BlueprintJsonWrapper.generated.h
-C:\Users\Ian Richens\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJson\Public\BlueprintJsonLibrary.h
-C:\Users\Ian Richens\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJson\Public\BlueprintJson.h
-E:\UE_4.27\Engine\Source\Runtime\Json\Public\Dom/JsonObject.h
-E:\UE_4.27\Engine\Source\Runtime\Json\Public\JsonGlobals.h
-E:\UE_4.27\Engine\Source\Runtime\Json\Public\Dom/JsonValue.h
-C:\Users\Ian Richens\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintJson\BlueprintJsonLibrary.generated.h
+C:\Users\user\Documents\Unreal Projects\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Definitions.BlueprintJsonEditor.h
+C:/Users/user/Documents/Unreal Projects/OneShot/OneShotProject/Plugins/BlueprintJsonPlugin/Source/BlueprintJsonEditor/Private/BlueprintJsonEditor.cpp
+C:\Users\user\Documents\Unreal Projects\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJsonEditor\Public\BlueprintJsonEditor.h
+C:/Users/user/Documents/Unreal Projects/OneShot/OneShotProject/Plugins/BlueprintJsonPlugin/Source/BlueprintJsonEditor/Private/BlueprintJsonEditorNodes.cpp
+C:\Users\user\Documents\Unreal Projects\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJsonEditor\Public\BlueprintJsonEditorNodes.h
+C:\Users\user\Documents\Unreal Projects\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintJsonEditor\BlueprintJsonEditorNodes.generated.h
+E:\Unreal\UE_4.27\Engine\Source\Editor\KismetCompiler\Public\KismetCompiler.h
+E:\Unreal\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_Event.h
+E:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/MemberReference.h
+E:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MemberReference.generated.h
+E:\Unreal\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_EventNodeInterface.h
+E:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_EventNodeInterface.generated.h
+E:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_Event.generated.h
+E:\Unreal\UE_4.27\Engine\Source\Editor\KismetCompiler\Public\BPTerminal.h
+E:\Unreal\UE_4.27\Engine\Source\Editor\KismetCompiler\Public\KismetCompilerMisc.h
+E:\Unreal\UE_4.27\Engine\Source\Editor\KismetCompiler\Public\BlueprintCompiledStatement.h
+E:\Unreal\UE_4.27\Engine\Source\Editor\KismetCompiler\Public\EdGraphCompilerUtilities.h
+E:\Unreal\UE_4.27\Engine\Source\Editor\KismetCompiler\Public\KismetCompiledFunctionContext.h
+E:\Unreal\UE_4.27\Engine\Source\Editor\UnrealEd\Public\Kismet2/CompilerResultsLog.h
+E:\Unreal\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/TokenizedMessage.h
+E:\Unreal\UE_4.27\Engine\Source\Editor\UnrealEd\Public\EdGraphToken.h
+E:\Unreal\UE_4.27\Engine\Source\Editor\BlueprintGraph\Public\BlueprintActionDatabaseRegistrar.h
+E:\Unreal\UE_4.27\Engine\Source\Editor\BlueprintGraph\Public\BlueprintActionDatabase.h
+E:\Unreal\UE_4.27\Engine\Source\Editor\BlueprintGraph\Public\BlueprintNodeSpawner.h
+E:\Unreal\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\BlueprintNodeBinder.h
+E:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/WeakFieldPtr.h
+E:\Unreal\UE_4.27\Engine\Source\Editor\BlueprintGraph\Public\BlueprintActionFilter.h
+E:\Unreal\UE_4.27\Engine\Source\Editor\BlueprintGraph\Public\BlueprintGraphModule.h
+E:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\BlueprintNodeSpawner.generated.h
+E:\Unreal\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_CallFunction.h
+E:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_CallFunction.generated.h
+C:\Users\user\Documents\Unreal Projects\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJson\Public\BlueprintJsonWrapper.h
+E:\Unreal\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+C:\Users\user\Documents\Unreal Projects\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintJson\BlueprintJsonWrapper.generated.h
+C:\Users\user\Documents\Unreal Projects\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJson\Public\BlueprintJsonLibrary.h
+C:\Users\user\Documents\Unreal Projects\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJson\Public\BlueprintJson.h
+E:\Unreal\UE_4.27\Engine\Source\Runtime\Json\Public\Dom/JsonObject.h
+E:\Unreal\UE_4.27\Engine\Source\Runtime\Json\Public\JsonGlobals.h
+E:\Unreal\UE_4.27\Engine\Source\Runtime\Json\Public\Dom/JsonValue.h
+C:\Users\user\Documents\Unreal Projects\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintJson\BlueprintJsonLibrary.generated.h
