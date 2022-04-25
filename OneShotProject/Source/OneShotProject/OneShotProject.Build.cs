@@ -21,3 +21,7 @@ public class OneShotProject : ModuleRules
 		// To include OnlineSubsystemSteam, add it to the plugins section in your uproject file with the Enabled attribute set to true
 	}
 }
+
+PublicDependencyModuleNames.AddRange(new string[] { "OnlineSubsystem", "OnlineSubsystemUtils" });
+
+DynamicallyLoadedModuleNames.Add("OnlineSubsystemSteam");
