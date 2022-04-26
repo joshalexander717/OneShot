@@ -12,10 +12,11 @@ public class OneShotProjectTarget : TargetRules
 
 		ExtraModuleNames.AddRange( new string[] { "OneShotProject" } );
 	}
+	public void SteamIntegrationTutTarget(TargetInfo Target)
+	{
+		Type = TargetType.Game;
+		bUsesSteam = true;
+	}
+
 }
 
-public SteamIntegrationTutTarget(TargetInfo Target)
-{
-	Type = TargetType.Game;
-	bUsesSteam = true;
-}

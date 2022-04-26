@@ -22,6 +22,6 @@ public class OneShotProject : ModuleRules
 	}
 }
 
-PublicDependencyModuleNames.AddRange(new string[] { "OnlineSubsystem", "OnlineSubsystemUtils" });
+//PublicDependencyModuleNames.AddRange(new string[] { "OnlineSubsystem", "OnlineSubsystemUtils" });
 
-DynamicallyLoadedModuleNames.Add("OnlineSubsystemSteam");
+//DynamicallyLoadedModuleNames.Add("OnlineSubsystemSteam");

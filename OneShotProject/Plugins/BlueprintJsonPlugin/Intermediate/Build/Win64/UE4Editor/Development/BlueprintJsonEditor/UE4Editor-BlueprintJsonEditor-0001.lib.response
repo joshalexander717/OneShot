@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BlueprintJsonEditor-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\kevin\Documents\GitHub\OneShot\OneShotProject\Intermediate\Build\Win64\OneShotProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\kevin\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Module.BlueprintJsonEditor.cpp.obj"
+"C:\Users\kevin\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Module.BlueprintJsonEditor.gen.cpp.obj"
+"C:\Users\kevin\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\Default.rc2.res"
+/OUT:"C:\Users\kevin\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintJsonEditor\UE4Editor-BlueprintJsonEditor-0001.lib"
