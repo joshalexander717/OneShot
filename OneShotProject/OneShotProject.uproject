@@ -84,6 +84,11 @@
 		{
 			"Name": "OnlineSubsystemSteam",
 			"Enabled": true
+		},
+		{
+			"Name": "Thumbnailer",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e6cff6f9f12f4fb699af2012fab767ee"
 		}
 	]
 }
