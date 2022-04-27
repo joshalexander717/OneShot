@@ -31,7 +31,7 @@
 /wd4244
 /wd4838
 /I .
-/I D:\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJson\Private
+/I C:\Users\kevin\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJson\Private
 /I ..\Intermediate\Build\Win64\UE4\Inc\CoreUObject
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -120,9 +120,9 @@
 /I Runtime\AnimationCore\Public
 /I ..\Intermediate\Build\Win64\UE4\Inc\JsonUtilities
 /I Runtime\JsonUtilities\Public
-/I D:\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4\Inc\BlueprintJson
-/I D:\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source
-/I D:\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJson\Public
+/I C:\Users\kevin\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4\Inc\BlueprintJson
+/I C:\Users\kevin\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source
+/I C:\Users\kevin\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Source\BlueprintJson\Public
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -146,18 +146,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\INCLUDE"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.20348.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.20348.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.20348.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.20348.0\winrt"
-/FI"D:\OneShot\OneShotProject\Intermediate\Build\Win64\OneShotProject\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"D:\OneShot\OneShotProject\Intermediate\Build\Win64\OneShotProject\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\OneShot\OneShotProject\Intermediate\Build\Win64\OneShotProject\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"D:\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4\Shipping\BlueprintJson\Module.BlueprintJson.cpp"
-/FI"D:\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4\Shipping\BlueprintJson\Definitions.BlueprintJson.h"
-/Fo"D:\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4\Shipping\BlueprintJson\Module.BlueprintJson.cpp.obj"
+/FI"C:\Users\kevin\Documents\GitHub\OneShot\OneShotProject\Intermediate\Build\Win64\OneShotProject\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\kevin\Documents\GitHub\OneShot\OneShotProject\Intermediate\Build\Win64\OneShotProject\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\kevin\Documents\GitHub\OneShot\OneShotProject\Intermediate\Build\Win64\OneShotProject\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\kevin\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4\Shipping\BlueprintJson\Module.BlueprintJson.cpp"
+/FI"C:\Users\kevin\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4\Shipping\BlueprintJson\Definitions.BlueprintJson.h"
+/Fo"C:\Users\kevin\Documents\GitHub\OneShot\OneShotProject\Plugins\BlueprintJsonPlugin\Intermediate\Build\Win64\UE4\Shipping\BlueprintJson\Module.BlueprintJson.cpp.obj"
 /TP
 /GR-
 /W4

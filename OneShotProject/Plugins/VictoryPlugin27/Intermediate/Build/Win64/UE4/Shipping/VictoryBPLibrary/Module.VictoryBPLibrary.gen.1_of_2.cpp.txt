@@ -1,4 +1,4 @@
-C:/Users/kevin/Documents/GitHub/OneShot/OneShotProject/Plugins/VictoryPlugin27/Intermediate/Build/Win64/UE4/Inc/VictoryBPLibrary/TKMathFunctionLibrary.gen.cpp
+C:/Users/u0802452/Documents/GitHub/OneShot/OneShotProject/Plugins/VictoryPlugin27/Intermediate/Build/Win64/UE4/Inc/VictoryBPLibrary/TKMathFunctionLibrary.gen.cpp
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/Object.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/Script.h
@@ -94,7 +94,7 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UOb
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/EnumProperty.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/TextProperty.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/FieldPathProperty.h
-C:\Users\kevin\Documents\GitHub\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary/Public/TKMathFunctionLibrary.h
+C:\Users\u0802452\Documents\GitHub\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary/Public/TKMathFunctionLibrary.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/UMG/Public/UMG.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Core.h
@@ -326,13 +326,13 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RHI\Public\RHIUtilitie
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RHI\Public\RHICommandList.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfiler.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfilerTrace.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\atomic
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xatomic.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\intrin0.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xthreads.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xtimec.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ctime
-C:\Program Files (x86)\Windows Kits\10\include\10.0.20348.0\ucrt\time.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\INCLUDE\atomic
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\INCLUDE\xatomic.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\INCLUDE\intrin0.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\INCLUDE\xthreads.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\INCLUDE\xtimec.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\INCLUDE\ctime
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\time.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RHI\Public\RHICommandList.inl
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\RenderCore.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\VertexFactory.h
@@ -1644,11 +1644,11 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/I
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/BasicMathExpressionEvaluator.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/FastDecimalFormat.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SSpinBox.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SSlider.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SComboBox.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Application/SlateUser.h
@@ -1989,11 +1989,11 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Movi
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneSequenceTickManager.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\UMG\UMGSequenceTickManager.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\UMG\UMGSequencePlayer.generated.h
-C:\Users\kevin\Documents\GitHub\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4\Inc\VictoryBPLibrary\TKMathFunctionLibrary.generated.h
-C:/Users/kevin/Documents/GitHub/OneShot/OneShotProject/Plugins/VictoryPlugin27/Intermediate/Build/Win64/UE4/Inc/VictoryBPLibrary/VictoryBPFunctionLibrary.gen.cpp
-C:\Users\kevin\Documents\GitHub\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary/Public/VictoryBPFunctionLibrary.h
-C:\Users\kevin\Documents\GitHub\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Public\VictoryISM.h
-C:\Users\kevin\Documents\GitHub\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4\Inc\VictoryBPLibrary\VictoryISM.generated.h
+C:\Users\u0802452\Documents\GitHub\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4\Inc\VictoryBPLibrary\TKMathFunctionLibrary.generated.h
+C:/Users/u0802452/Documents/GitHub/OneShot/OneShotProject/Plugins/VictoryPlugin27/Intermediate/Build/Win64/UE4/Inc/VictoryBPLibrary/VictoryBPFunctionLibrary.gen.cpp
+C:\Users\u0802452\Documents\GitHub\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary/Public/VictoryBPFunctionLibrary.h
+C:\Users\u0802452\Documents\GitHub\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Public\VictoryISM.h
+C:\Users\u0802452\Documents\GitHub\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4\Inc\VictoryBPLibrary\VictoryISM.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/UMG/Public/UMGStyle.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\AIController.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\NavigationSystem\Public\NavFilters/NavigationQueryFilter.h
@@ -2058,4 +2058,4 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SignalProcessing\Publi
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer/TargetPlatform/Public/Interfaces/IAudioFormat.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\VorbisAudioInfo.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\DDSLoader.h
-C:\Users\kevin\Documents\GitHub\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4\Inc\VictoryBPLibrary\VictoryBPFunctionLibrary.generated.h
+C:\Users\u0802452\Documents\GitHub\OneShot\OneShotProject\Plugins\VictoryPlugin27\Intermediate\Build\Win64\UE4\Inc\VictoryBPLibrary\VictoryBPFunctionLibrary.generated.h

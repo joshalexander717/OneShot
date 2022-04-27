@@ -1,4 +1,4 @@
-// PCH for C:\Users\kevin\Documents\GitHub\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
+// PCH for C:\Users\u0802452\Documents\GitHub\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
 #define IS_PROGRAM 0
 #define UE_GAME 1
 #define ENABLE_PGO_PROFILE 0
@@ -212,4 +212,4 @@
 #define WITH_CUSTOM_SQ_STRUCTURE 0
 #define WITH_IMMEDIATE_PHYSX 0
 #define APEXDESTRUCTION_API 
-#include "C:/Users/kevin/Documents/GitHub/OneShot/OneShotProject/Plugins/VictoryPlugin27/Source/VictoryBPLibrary/Private/VictoryBPLibraryPrivatePCH.h"
+#include "C:/Users/u0802452/Documents/GitHub/OneShot/OneShotProject/Plugins/VictoryPlugin27/Source/VictoryBPLibrary/Private/VictoryBPLibraryPrivatePCH.h"

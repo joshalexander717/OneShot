@@ -86,9 +86,9 @@
 			"Enabled": true
 		},
 		{
-			"Name": "Thumbnailer",
+			"Name": "Substance",
 			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e6cff6f9f12f4fb699af2012fab767ee"
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2f6439c2f9584f49809d9b13b16c2ba4"
 		}
 	]
 }

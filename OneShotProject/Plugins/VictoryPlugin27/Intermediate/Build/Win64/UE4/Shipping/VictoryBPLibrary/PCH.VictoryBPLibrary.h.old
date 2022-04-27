@@ -1,4 +1,4 @@
-// PCH for D:\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
+// PCH for C:\Users\kevin\Documents\GitHub\OneShot\OneShotProject\Plugins\VictoryPlugin27\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
 #define IS_PROGRAM 0
 #define UE_GAME 1
 #define ENABLE_PGO_PROFILE 0
@@ -34,7 +34,7 @@
 #define UBT_COMPILED_PLATFORM Win64
 #define UBT_COMPILED_TARGET Game
 #define UE_APP_NAME "UE4"
-#define UE_ENGINE_DIRECTORY "C:/UE_4.27/Engine/"
+#define UE_ENGINE_DIRECTORY "../../../../../../../../Program Files/Epic Games/UE_4.27/Engine/"
 #define NDIS_MINIPORT_MAJOR_VERSION 0
 #define WIN32 1
 #define _WIN32_WINNT 0x0601
@@ -212,4 +212,4 @@
 #define WITH_CUSTOM_SQ_STRUCTURE 0
 #define WITH_IMMEDIATE_PHYSX 0
 #define APEXDESTRUCTION_API 
-#include "D:/OneShot/OneShotProject/Plugins/VictoryPlugin27/Source/VictoryBPLibrary/Private/VictoryBPLibraryPrivatePCH.h"
+#include "C:/Users/kevin/Documents/GitHub/OneShot/OneShotProject/Plugins/VictoryPlugin27/Source/VictoryBPLibrary/Private/VictoryBPLibraryPrivatePCH.h"
